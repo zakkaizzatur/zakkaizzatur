@@ -9,7 +9,7 @@ Currently exploring advanced cloud architecture, DevOps culture, and how to brid
 Outside of tech, I enjoy writing, photography, and videography.  
 You can find some of my landscape shots on [Instagram @galerijek](https://www.instagram.com/galerijek).  
 
-✨ *I love being behind the stage, quietly crafting solutions that work.*
+✨ *I don’t need the spotlight; I enjoy being the one making sure everything works as it should.*
 
 ---
 
