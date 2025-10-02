@@ -1,24 +1,29 @@
-# Hey, I'm Zakka 👋
+# Hi, I'm Zakka 👋
 
-I’m a Cloud Engineer based in Indonesia, currently focusing on **Kubernetes, Cloud Engineering, and Infrastructure as Code**.  
-I enjoy designing systems that are simple, reliable, and make people’s lives easier without all the unnecessary buzzwords.
+Cloud Engineer from Indonesia, working with **AWS, Kubernetes, Terraform, and DevOps practices**.  
+I care about building systems that are simple, reliable, and make sense in the real world.  
 
-Outside of work, I’m a bit of a storyteller. I love writing, photography, and videography.  
-My photography account [@galerijek](https://www.instagram.com/galerijek)
+I hold certifications in **AWS Solutions Architect, Terraform, and Kubernetes (CKA, CKAD, CKS)**.  
+Currently exploring advanced cloud architecture, DevOps culture, and how to bridge technology with real business impact.  
 
----
+Outside of tech, I enjoy writing, photography, and videography.  
+You can find some of my landscape shots on [Instagram @galerijek](https://www.instagram.com/galerijek).  
 
-### 🛠️ What I work with
-- **Cloud:** AWS, Proxmox  
-- **IaC:** Terraform, Ansible  
-- **Kubernetes:** CKA, CKAD, CKS certified  
-- **CI/CD & GitOps:** GitLab CI/CD, ArgoCD, Helm  
-- **Languages:** Go, Python, Bash  
-- **Databases:** PostgreSQL, Redis, MySQL  
+✨ *I love being behind the stage, quietly crafting solutions that work.*
 
 ---
 
-### 📜 Certifications
+## 🛠️ What I work with
+- Cloud: AWS, Proxmox  
+- IaC: Terraform, Ansible  
+- Kubernetes: CKA, CKAD, CKS certified  
+- DevOps & GitOps: GitLab CI/CD, ArgoCD, Helm
+- Languages: Go, Python, Bash  
+- Databases: PostgreSQL, Redis, MySQL  
+
+---
+
+## 📜 Certifications
 - AWS Certified Solutions Architect – Associate  
 - Certified Kubernetes Administrator (CKA)  
 - Certified Kubernetes Application Developer (CKAD)  
@@ -27,13 +32,13 @@ My photography account [@galerijek](https://www.instagram.com/galerijek)
 
 ---
 
-### 🌱 Currently exploring
-- Advanced **cloud architecture** (networking, security, multi-account setups)  
-- Patterns for building **scalable solutions** across cloud and on-prem environments  
-- The “business side” of tech — how solutions actually help people, not just tick boxes  
+## 🌱 Currently exploring
+- Advanced cloud architecture (networking, security, multi-account setups)  
+- DevOps culture and automation best practices  
+- The business side of tech — how solutions actually help people, not just tick boxes  
 
 ---
 
-### 🤝 Let’s connect
+## 🤝 Let’s connect
 - [LinkedIn](https://www.linkedin.com/zakkaizzatur)  
 - [Instagram](https://www.instagram.com/galerijek)  
